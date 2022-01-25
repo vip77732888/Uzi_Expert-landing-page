@@ -1,110 +1,107 @@
 /*large device, Wide screens*/
+
 @media only screen and (max-width: 1200px) {
-    .menu li a{
-        font-size: 13px; 
+    .menu li a {
+        font-size: 13px;
     }
-    .menu{
+    .menu {
         margin-top: -10px;
     }
-    .intro{
+    .intro {
         margin: 159px 0 0 420px;
     }
     .link:last-child {
         margin-right: 10px;
     }
-    .intro_title{
+    .intro_title {
         font-size: 32px;
     }
     .intro_text {
         font-size: 15px;
     }
-    .link{
+    .link {
         font-size: 15px;
         padding: 9px 16px;
     }
-
-    .section_title{
+    .section_title {
         font-size: 36px;
         margin: 18px 0px 37px;
-
     }
-    #main_img{
+    #main_img {
         width: 509px;
         height: 470px;
     }
-    .main_group{
+    .main_group {
         margin: 57px 0px 0px 87px;
         font-size: 13px;
     }
-    .main_title{
+    .main_title {
         font-size: 30px;
     }
     .services_item:first-child {
         margin-left: 6px;
     }
-    .main_text{
+    .main_text {
         font-size: 15px;
     }
-    .services_title{
+    .services_title {
         margin: 39px 0px 14px;
     }
-    .section--offers{
+    .section--offers {
         padding-top: 30px;
     }
-    .offers--item{
+    .offers--item {
         padding: 47px 59px;
     }
-    .section_text{
+    .section_text {
         padding-bottom: 70px;
     }
-    .services_item{
+    .services_item {
         margin-left: 58px;
     }
-    .services--img{
+    .services--img {
         width: 250px;
         height: 100px;
     }
-    .sub_title{
+    .sub_title {
         font-size: 17px;
     }
-    .src--kid{
+    .src--kid {
         margin-left: -34px;
     }
-    .questions_subtitle{
+    .questions_subtitle {
         padding: 62px 0 67px;
     }
-
     .text_icon {
         margin-left: 10%;
     }
     .questions_answ {
         font-size: 17px;
-        margin-bottom: 23px;
-        margin-top: 15px;
+        margin-bottom: 7px;
+        margin-top: 12px;
     }
-    .questions_column{
+    .questions_column {
         margin-left: 5px;
     }
-    #birds{
+    #birds {
         margin: 30px 0 14px;
     }
-    
-    .questions_text{
-        margin-left: 20px;
+    .questions_text {
+        margin-left: -10px;
     }
-    .last_section{
+    .last_section {
         margin-left: 5px;
     }
-    .end{
+    .end {
         margin: 5px 0 6px;
     }
-    .last_txt{
+    .last_txt {
         line-height: 2.8;
     }
-    .end_txt{
+    .end_txt {
         font-size: 15px;
     }
-    .offers--item{
+    .offers--item {
         flex: 0 0 27%;
     }
     .services_item:first-child {
@@ -113,144 +110,142 @@
     .last_section {
         padding: 0px 32px;
     }
-    
 }
+
+
 /*Medium device, dekstop*/
+
 @media only screen and (max-width: 992px) {
-    
-    .menu{
-       margin: 1px;
+    .menu {
+        margin: 1px;
     }
-    .nav{
+    .nav {
         padding-top: 1px;
     }
-    .menu li a{
+    .menu li a {
         font-size: 10px;
         margin-left: 19px;
     }
     #connect_btn {
         margin-left: 17px;
     }
-    .intro{
+    .intro {
         margin: 121px 0 0 334px;
     }
     .link:last-child {
         margin-right: 10px;
     }
-    .intro_title{
+    .intro_title {
         font-size: 27px;
     }
     .intro_text {
         font-size: 13px;
     }
-    .text_btn a:first-child{
+    .text_btn a:first-child {
         margin-right: 2px;
     }
-    .link{  
+    .link {
         font-size: 9px;
         padding: 7px 7px;
     }
-
-    .section_title{
+    .section_title {
         font-size: 30px;
         margin: -13px 0px 32px;
     }
-    .services_icon{
+    .services_icon {
         height: 54px
     }
-    #main_img{
+    #main_img {
         width: 378px;
         height: 383px;
     }
-    .main_group{
+    .main_group {
         margin: 38px 0px 0px 57px;
         font-size: 13px;
     }
-    .icon_text{
+    .icon_text {
         margin-bottom: 16px;
         font-size: 10px;
     }
-    .main_title{
+    .main_title {
         font-size: 27px;
     }
-    .reg_btn{
+    .reg_btn {
         padding: 10px 24px;
     }
     .icon_text:last-child {
         margin-bottom: 33px;
     }
-    
     .services_item:first-child {
         margin-left: 4px;
     }
-    
-    .offers--item:first-child{
+    .offers--item:first-child {
         margin-left: 29px;
     }
-    .main_text{
+    .main_text {
         font-size: 12px;
     }
-    .services_title{
-        margin: 19px 0px 14px;     
+    .services_title {
+        margin: 19px 0px 14px;
         font-size: 15px;
     }
-    .services_text{
+    .services_text {
         font-size: 10px;
     }
-    .section--offers{
+    .section--offers {
         padding-top: 30px;
     }
-    .offers--item{
+    .offers--item {
         padding: 20px 50px;
     }
-    .section_text{   
+    .section_text {
         padding-bottom: 56px;
     }
-    .services_item{
+    .services_item {
         margin-left: 44px;
     }
-    .services--img{
+    .services--img {
         width: 234px;
         height: 93px;
     }
-    .offers_text{
+    .offers_text {
         font-size: 11px;
     }
-    .offers_title{
+    .offers_title {
         font-size: 15px;
     }
     .offers_icon {
         height: 55px;
     }
-    .section_slider{
-       padding-bottom: 68px;
+    .section_slider {
+        padding-bottom: 68px;
     }
-    .s--t{
+    .s--t {
         margin: 30px 0px 32px;
     }
-    .sub_title{
+    .sub_title {
         font-size: 15px;
     }
-    .article--text{
+    .article--text {
         font-size: 13px;
     }
-    .text_link{
+    .text_link {
         font-size: 12px;
     }
-    .src--kid{
+    .src--kid {
         margin-left: -34px;
     }
-    .questions_subtitle{
+    .questions_subtitle {
         font-size: 30px;
         padding: 41px 0 51px;
     }
-    .question_question{
+    .question_question {
         font-size: 27px;
     }
-    .questions_link{
+    .questions_link {
         margin-top: 26px;
     }
-    .text_icon{
+    .text_icon {
         margin-left: 56px;
         height: 8px;
     }
@@ -259,70 +254,78 @@
         margin-bottom: 23px;
         margin-top: 15px;
     }
-    .questions_answ{
+    .questions_answ {
         font-size: 11px;
+        margin-bottom: 0px;
+        margin-top: 16px;
     }
-    .questions_column{
+    .questions_column {
         margin-left: 5px;
     }
-    #birds{
+    #birds {
         height: 300px;
         margin: 30px 0 14px;
     }
-    
-    
-    .questions_text{
-        margin-right: 9px;
-        margin-left: 20px;
-    
+    .questions_text {
+        margin-right: 6px;
+        margin-left: 2px;
     }
-
-    .last_num{
+    .last_num {
         font-size: 11px;
     }
-    .item_title{
+    .item_title {
         font-size: 13px;
     }
-    #title_txt{
+    #title_txt {
         font-size: 13px;
     }
-    .lasttxt{
+    .lasttxt {
         font-size: 11px;
     }
     .last_logo {
         height: 53px;
     }
-    .last_section{
+    .last_section {
         margin-left: 5px;
     }
-    .end{
+    .end {
         margin: 5px 0 6px;
     }
-    .last_txt{
+    .last_txt {
         font-size: 11px;
         line-height: 2;
     }
-    .reg_btn{
+    .reg_btn {
         font-size: 13px;
         margin: 5px 132px 0 0;
     }
-    .alux_logo{
+    .alux_logo {
         height: 26px;
     }
-    .end_txt{
+    .end_txt {
         font-size: 12px;
+    }
+    summary:before {
+        font-size: 24px;
+    }
+    .questions_text {
+        font-size: 11px;
     }
 }
 
+
 /*Small device tablets*/
+
 @media only screen and (max-width: 768px) {
     #menu__toggle {
         opacity: 0;
     }
-      /* стилизуем кнопку */
+    /* стилизуем кнопку */
     .menu__btn {
-        display: flex; /* используем flex для центрирования содержимого */
-        align-items: center;  /* центрируем содержимое кнопки */
+        display: flex;
+        /* используем flex для центрирования содержимого */
+        align-items: center;
+        /* центрируем содержимое кнопки */
         position: fixed;
         top: 27px;
         left: 20px;
@@ -331,25 +334,25 @@
         cursor: pointer;
         z-index: 1;
     }
-      /* добавляем "гамбургер" */
-    .menu__btn > span,
-    .menu__btn > span::before,
-    .menu__btn > span::after {
+    /* добавляем "гамбургер" */
+    .menu__btn>span,
+    .menu__btn>span::before,
+    .menu__btn>span::after {
         display: block;
         position: absolute;
         width: 100%;
         height: 2px;
         background-color: #616161;
     }
-    .menu__btn > span::before {
+    .menu__btn>span::before {
         content: '';
         top: -8px;
     }
-    .menu__btn > span::after {
+    .menu__btn>span::after {
         content: '';
         top: 8px;
     }
-      /* контейнер меню */
+    /* контейнер меню */
     .menu__box {
         display: block;
         position: fixed;
@@ -378,33 +381,32 @@
     .menu__item:hover {
         background-color: #CFD8DC;
     }
-    #menu__toggle:checked ~ .menu__btn > span {
+    #menu__toggle:checked~.menu__btn>span {
         transform: rotate(45deg);
     }
-    #menu__toggle:checked ~ .menu__btn > span::before {
+    #menu__toggle:checked~.menu__btn>span::before {
         top: 0;
         transform: rotate(0);
     }
-    #menu__toggle:checked ~ .menu__btn > span::after {
+    #menu__toggle:checked~.menu__btn>span::after {
         top: 0;
         transform: rotate(90deg);
     }
-    #menu__toggle:checked ~ .menu__box {
+    #menu__toggle:checked~.menu__box {
         visibility: visible;
         left: 0;
     }
-    #menu__toggle{
+    #menu__toggle {
         visibility: visible;
     }
-    .header_logo{
+    .header_logo {
         max-width: 129px;
         height: 28px;
-    }  
-    
+    }
     .intro {
         margin: 80px 0 0 151px;
     }
-    .header{
+    .header {
         height: 328px;
     }
     .offers--item:first-child {
@@ -417,29 +419,28 @@
         font-size: 6px;
         padding: 4px 6px;
     }
-    .intro_title{
+    .intro_title {
         font-size: 16px;
     }
-    .intro_text{
+    .intro_text {
         font-size: 8px;
     }
-    .intro_text{       
+    .intro_text {
         border-left: #010101 1px solid;
         padding-left: 9px;
         margin: 10px 45px;
     }
-    .section_title{
+    .section_title {
         font-size: 16px;
         margin: -29px 0px -10px;
     }
-    .section_text{
+    .section_text {
         font-size: 16px;
     }
-
-    .services {       
+    .services {
         margin-bottom: 16px;
     }
-    .services_item{
+    .services_item {
         margin-left: 0px;
     }
     .services_title {
@@ -458,7 +459,7 @@
     .main_group {
         margin: 20px 0px 0px 15px;
     }
-    #main_img{
+    #main_img {
         height: 219px;
     }
     .main_text {
@@ -473,7 +474,6 @@
         height: 9px;
         width: 10px;
     }
-
     .reg_btn {
         font-size: 6px;
         margin: 11px 25px 0 0px;
@@ -488,152 +488,149 @@
     .section_text {
         padding-bottom: 21px;
     }
-
     .offers_title {
         margin: 5px 0 12px;
     }
     .offers_title {
         font-size: 11px;
     }
-    
-        .offers_text {
-            font-size: 8px;
-        }
-        .offers_icon {
-            height: 39px;
-        }
-        .services_item {
-            margin-left: 25px;
-        }
-        .offers--item {
-            padding: 10px 25px;
-        }
-        .slider_btn {
-            margin-left: 10px;
-            height: 11px;
-            width: 11px;
-        }
-        .section_slider {
-            padding-bottom: 54px;
-        }
-        .s--t{
-            margin: 1px 0px 7px;
-        }
-        .services--img {
-            width: 134px;  
-            height: 53px;
-        }
-        .sub_title {
-            font-size: 9px;
-            margin: 7px 0 4px 0;
-        }
-        .text_link {
-            font-size: 8px;
-        }
-        .article_title{
-            margin-bottom: 2px;
-        }
-        .article--text{
-            line-height: 16px;
-        }
-        .article_subtext {
-            margin-top: 6px
-        }
-        .src--kid{
-            margin-left: -1px;
-        }
-        .questions_subtitle {
-            font-size: 16px;
-            padding: 25px 0 21px;
-        }
-        .question_question {
-            font-size: 16px;
-        }
-        .questions_link {
-            margin-top: 14px;
-        }
-        .questions_answ {
-            font-size: 8px;
-        }
-        .questions_text {
-            margin-right: 2px;
-            margin-left: 6px;
-        }
-        .questions_link {
-            margin-top: 4px;
-        }
-        .questions_answ {
-            margin-bottom: 12px;
-            margin-top: -7px;
-        }
-        #birds {
-            height: 166px;
-            margin: 43px 0 14px;
-        }
-        .text_icon {
-            margin-left: 43px;
-            height: 6px;
-        }
-        .questions_text {
-            margin: 22px 0px 0px 2px;
-        }
-        .questions_answ{
-            padding-bottom: 9px;
-        }
-
-        .last_logo {
-            height: 39px;
-        }
-        .last_item {
-            font-size: 8px;
-            margin-top: 20px;
-        }
-        #title_txt {
-            font-size: 10px;
-        }
-        .item_title {
-            font-size: 10px;
-        }
-        .last_txt {
-            font-size: 8px;
-            line-height: 1.8;
-        }
-        .last_num {
-            font-size: 8px;
-        }
-        .lasttxt {
-            font-size: 8px;
-        }
-        #title_txt {
-            margin-bottom: 15px;
-        }
-        #reg_btn {
-            margin: 10px 94px 0 0;
-        }
-        .alux_logo {
-            height: 19px;
-        }
-        .alux_logo {
-            margin-right: 9px;
-        }
-        .end {
-            margin: -3px 0 1px;
-            padding-top: 14px;
-        }
-        .end_txt {
-            font-size: 9px;
-        }
-        #connect_btn{
-            border: none;
-            color: black;
-        }
-        #menu_about {
-            color: black;
+    .offers_text {
+        font-size: 8px;
+    }
+    .offers_icon {
+        height: 39px;
+    }
+    .services_item {
+        margin-left: 25px;
+    }
+    .offers--item {
+        padding: 10px 25px;
+    }
+    .slider_btn {
+        margin-left: 10px;
+        height: 11px;
+        width: 11px;
+    }
+    .section_slider {
+        padding-bottom: 54px;
+    }
+    .s--t {
+        margin: 1px 0px 7px;
+    }
+    .services--img {
+        width: 134px;
+        height: 53px;
+    }
+    .sub_title {
+        font-size: 9px;
+        margin: 7px 0 4px 0;
+    }
+    .text_link {
+        font-size: 8px;
+    }
+    .article_title {
+        margin-bottom: 2px;
+    }
+    .article--text {
+        line-height: 16px;
+    }
+    .article_subtext {
+        margin-top: 6px
+    }
+    .src--kid {
+        margin-left: -1px;
+    }
+    .questions_subtitle {
+        font-size: 16px;
+        padding: 25px 0 21px;
+    }
+    .question_question {
+        font-size: 16px;
+    }
+    .questions_link {
+        margin-top: 14px;
+    }
+    .questions_answ {
+        font-size: 8px;
+    }
+    .questions_text {
+        margin-right: 2px;
+        margin-left: 6px;
+    }
+    .questions_link {
+        margin-top: 4px;
+    }
+    .questions_answ {
+        margin-bottom: 12px;
+        margin-top: -7px;
+    }
+    #birds {
+        height: 166px;
+        margin: 43px 0 14px;
+    }
+    .text_icon {
+        margin-left: 43px;
+        height: 6px;
+    }
+    .questions_text {
+        margin: 22px 0px 0px 2px;
+    }
+    .questions_answ {
+        padding-bottom: 9px;
+    }
+    .last_logo {
+        height: 39px;
+    }
+    .last_item {
+        font-size: 8px;
+        margin-top: 20px;
+    }
+    #title_txt {
+        font-size: 10px;
+    }
+    .item_title {
+        font-size: 10px;
+    }
+    .last_txt {
+        font-size: 8px;
+        line-height: 1.8;
+    }
+    .last_num {
+        font-size: 8px;
+    }
+    .lasttxt {
+        font-size: 8px;
+    }
+    #title_txt {
+        margin-bottom: 15px;
+    }
+    #reg_btn {
+        margin: 10px 94px 0 0;
+    }
+    .alux_logo {
+        height: 19px;
+    }
+    .alux_logo {
+        margin-right: 9px;
+    }
+    .end {
+        margin: -3px 0 1px;
+        padding-top: 14px;
+    }
+    .end_txt {
+        font-size: 9px;
+    }
+    #connect_btn {
+        border: none;
+        color: black;
+    }
+    #menu_about {
+        color: black;
     }
     .top_link {
         font-size: 8px;
     }
-    .offers--item:hover{
+    .offers--item:hover {
         -webkit-box-shadow: 0px -23px 0px 0px #93f7f7 inset;
         -moz-box-shadow: 0px -23px 0px 0px #93f7f7 inset;
         box-shadow: 0px -23px 0px 0px #93f7f7 inset;
@@ -650,29 +647,40 @@
     .last--item {
         margin-right: 35px;
     }
-    #connect_btn{
+    #connect_btn {
         margin-left: 29px;
+    }
+    .questions_answ {
+        margin-bottom: 8px;
+        margin-top: -3px;
+    }
+    .questions_text {
+        font-size: 8px;
+    }
+    summary:before {
+        font-size: 17px;
     }
 }
 
+
 /*extra small device, Phones*/
+
 @media only screen and (max-width: 480px) {
     .intro_title {
         font-size: 12px;
     }
-   
-    .header{
+    .header {
         height: 250px;
     }
     .header_logo {
         max-width: 118px;
         height: 25px;
     }
-    .intro_text{
+    .intro_text {
         padding-left: 7px;
         margin: 7px 45px;
     }
-    .header{
+    .header {
         max-height: 274px;
     }
     .intro {
@@ -685,13 +693,13 @@
         font-size: 5px;
         padding: 3px 3px;
     }
-    .text_btn{
-        margin-left: 42px;
+    .text_btn {
+        margin-left: 41px;
     }
     #connect_btn {
         margin-left: 30px;
     }
-    .section_title{
+    .section_title {
         font-size: 12px;
     }
     .services_icon {
@@ -704,21 +712,22 @@
     .services_text {
         font-size: 6px;
     }
+    .srs_itm {
+        margin-left: 20px;
+    }
     .services_item {
         margin-left: 9px;
     }
-    
     #main_img {
         height: 174px;
     }
-
     .main_title {
         font-size: 12px;
     }
     .main_text {
         margin: 6px 0 7px;
     }
-    .main_text{
+    .main_text {
         font-size: 6px;
     }
     .icon_text {
@@ -728,16 +737,15 @@
     .main_group {
         margin: 12px 0px 0px 9px;
     }
-    .reg_btnpadding{
+    .reg_btnpadding {
         padding: 5px 8px;
     }
-    .reg_btn :hover{
+    .reg_btn :hover {
         font-size: 8px;
     }
     .services {
         margin-bottom: 6px;
     }
-    
     .offers_icon {
         height: 31px;
     }
@@ -750,7 +758,7 @@
     .services_item:first-child {
         margin-left: 22px;
     }
-    .services--article{
+    .services--article {
         margin-left: -23px;
     }
     .offers--item {
@@ -767,7 +775,7 @@
     .section--offers {
         padding-top: 23px;
     }
-    .src--kid{
+    .src--kid {
         margin-left: 7px;
     }
     .services--img {
@@ -794,7 +802,7 @@
     .s--t {
         margin: -12px 0px -9px;
     }
-    .services--article{
+    .services--article {
         margin-bottom: -20px;
     }
     .questions_subtitle {
@@ -814,7 +822,6 @@
     .questions_answ {
         font-size: 6px;
     }
-
     .questions_answ {
         padding-bottom: 5px;
     }
@@ -822,7 +829,6 @@
         margin-left: 1px;
         height: 4px;
     }
-
     .item_title {
         font-size: 8px;
     }
@@ -842,7 +848,7 @@
     #reg_btn {
         margin: 7px 59px 0 0;
     }
-    .inst_png{
+    .inst_png {
         height: 20px;
     }
     .alux_logo {
@@ -859,7 +865,20 @@
         margin-top: 6px;
         font-size: 12px;
     }
-    .last_logo{
-    margin-bottom: -10px;
+    .last_logo {
+        margin-bottom: -10px;
+    }
+    .questions_answ {
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+    .questions_answ {
+        padding-bottom: 10px;
+    }
+    .questions_answ {
+        font-size: 5px;
+    }
+    .icon_text:last-child {
+        margin-bottom: 12px;
     }
 }
