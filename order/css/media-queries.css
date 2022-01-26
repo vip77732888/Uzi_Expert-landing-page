@@ -104,9 +104,7 @@
     .offers--item {
         flex: 0 0 27%;
     }
-    .services_item:first-child {
-        margin-left: 47px;
-    }
+   
     .last_section {
         padding: 0px 32px;
     }
@@ -179,9 +177,7 @@
     .services_item:first-child {
         margin-left: 4px;
     }
-    .offers--item:first-child {
-        margin-left: 29px;
-    }
+   
     .main_text {
         font-size: 12px;
     }
@@ -409,9 +405,7 @@
     .header {
         height: 328px;
     }
-    .offers--item:first-child {
-        margin-left: 23px;
-    }
+    
     .offers_title {
         font-size: 10px;
     }
@@ -756,7 +750,7 @@
         font-size: 8px;
     }
     .services_item:first-child {
-        margin-left: 22px;
+        margin-left: 0px;
     }
     .services--article {
         margin-left: -23px;
@@ -804,6 +798,10 @@
     }
     .services--article {
         margin-bottom: -20px;
+    }
+    .src--kid:first-child{
+        margin-left: 23px;
+
     }
     .questions_subtitle {
         font-size: 12px;

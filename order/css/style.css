@@ -130,6 +130,7 @@ li {
 /* SERVICES */
 
 .services {
+    justify-content: center;
     display: flex;
     margin-bottom: 37px;
 }
